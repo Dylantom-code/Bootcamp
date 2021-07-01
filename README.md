@@ -18,7 +18,7 @@ print(Hello, World)
 ## 2: Cleaning up
 
 Clear the contents of the current tab.
-44
+
 
 ## 3: Listing
 
