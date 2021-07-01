@@ -23,7 +23,7 @@ Clear the contents of the current tab.
 ## 3: Listing
 
 What’s the command to list all the files (and directories) on your Desktop directory? 
-
+dir
 
 ## 4: Making directories
 
